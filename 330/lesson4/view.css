@@ -1,0 +1,9 @@
+.header{
+    will-change: 100;
+    color:rgb(38, 68, 94);
+    padding: 20px;
+    background: rgba(155, 231, 236, 0.467);
+    box-sizing: border-box;
+    width: 50%;
+    height: 20px;
+}
